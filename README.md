@@ -15,8 +15,8 @@ To set up the Sells System project, follow these steps:
 
 Once the Sells System is installed and set up, you can use it to manage products and record daily sales. Here are the main functionalities:
 ### Login to the system
--username [admin]
--password [admin]
+- username [admin]
+- password [admin]
 ### Adding Products to Stock:
 - Navigate to the "Add Product" page in the Sells System.
 - Fill in the product details such as name, quantity, price, etc.
