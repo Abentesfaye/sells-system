@@ -36,4 +36,4 @@ Once the Sells System is installed and set up, you can use it to manage products
 ### License
 - The Sells System project is released under the MIT License.
 ### Contact Information
-If you have any questions or need further assistance with the Sells System project, you can contact the project maintainer at abentesfaye11@gmail.com
+If you have any questions or need further assistance with the Sells System project, you can contact me at abentesfaye11@gmail.com
